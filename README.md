@@ -1,6 +1,6 @@
 # Spicy AI Video Generator API Examples with Muapi
 
-Compare the spicy AI video generator endpoints on Muapi — relaxed-moderation tiers of Seedance 2.5, Seedance 2, Wan 3.0, Wan 2.7/2.6/2.2 and MiniMax H3 — across text-to-video, image-to-video and reference-to-video, all behind one API key and one request format. This guide covers Muapi endpoints only; it does not document the upstream providers' direct APIs. Spicy tiers apply relaxed content moderation, but you remain responsible for complying with Muapi's [terms](https://muapi.ai/terms) and applicable law.
+A guide to the uncensored, unrestricted AI video generator models on Muapi, with lighter filtering than mainstream tools. Compare the spicy AI video generator endpoints on Muapi — relaxed-moderation tiers of Seedance 2.5, Seedance 2, Wan 3.0, Wan 2.7/2.6/2.2 and MiniMax H3 — across text-to-video, image-to-video and reference-to-video, all behind one API key and one request format. This guide covers Muapi endpoints only; it does not document the upstream providers' direct APIs. Spicy tiers apply relaxed content moderation, but you remain responsible for complying with Muapi's [terms](https://muapi.ai/terms) and applicable law.
 
 ## Related Projects
 
@@ -9,6 +9,7 @@ Compare the spicy AI video generator endpoints on Muapi — relaxed-moderation t
 - [Seedance 2 Spicy API](https://github.com/Anil-matcha/Seedance-2-Spicy-API) — Seedance 2 Spicy endpoints.
 - [Wan 3.0 Spicy API](https://github.com/Anil-matcha/Wan-3.0-Spicy-API) — Wan 3.0 Spicy endpoints.
 - [MiniMax H3 Spicy API](https://github.com/Anil-matcha/MiniMax-H3-Spicy-API) — full schemas for all eight MiniMax H3 Spicy endpoints.
+- [Uncensored AI Video Generator in ComfyUI](https://github.com/Anil-matcha/uncensored-ai-video-generator-comfyui) — run these video models inside ComfyUI with no GPU.
 - [Awesome Uncensored AI Video Models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) — catalog of uncensored video models.
 - [Spicy AI Image Generator API](https://github.com/Anil-matcha/Spicy-AI-Image-Generator-API) — the image-side companion to this guide.
 - [AI Video API](https://github.com/Anil-matcha/AI-Video-API) — examples for video-generation APIs in general.

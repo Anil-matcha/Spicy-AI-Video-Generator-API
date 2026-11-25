@@ -14,6 +14,7 @@ A guide to the uncensored, unrestricted AI video generator models on Muapi, with
 - [Spicy AI Image Generator API](https://github.com/Anil-matcha/Spicy-AI-Image-Generator-API) — the image-side companion to this guide.
 - [AI Video API](https://github.com/Anil-matcha/AI-Video-API) — examples for video-generation APIs in general.
 - [Image-to-Video API](https://github.com/Anil-matcha/Image-to-Video-API) — image-to-video endpoints compared.
+- [Magi 2 API](https://github.com/Anil-matcha/Magi-2-API) — Magi 2 text-to-video and image-to-video, with notes on what uncensored and spicy mean for open-weights video models.
 - [NSFW-AI-API](https://github.com/Anil-matcha/NSFW-AI-API) — NSFW detection and moderation for text and images, to screen prompts and outputs
 
 ## Overview
